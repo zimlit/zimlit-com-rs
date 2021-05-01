@@ -1,0 +1,29 @@
+<div id=nav>
+  <ul class=nav-list>
+    <li class="nav-item">
+      <a href=/>
+        home
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href=/coding>
+        coding
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href=/cubing>
+        cubing
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href=/conlanging>
+        conlanging
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href=/conworlding>
+        conworlding
+      </a>
+    </li>
+  </ul>
+</div>
